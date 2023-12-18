@@ -1,0 +1,45 @@
+/* шапка */
+thead.main-grid-header th {
+  background-color: #EEF2F4;
+}
+/* таблица */
+#vacations_report_table {
+  border-radius: 10px 10px 0 0;
+}
+
+/* ячейки */
+.main-grid-cell {
+  border: 1px #eef2f4 solid;
+}
+
+.main-grid-cell.border-bottom-none {
+  border-bottom: none;
+}
+.main-grid-cell-content {
+  margin-left: 16px !important;
+}
+
+.library-book-button {
+  border: solid 1px #888;
+  border-radius: 8px;
+  padding: 5px 15px;
+  margin-top: 20px;
+  width: 300px;
+  min-height: 58px;
+  box-sizing: border-box;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.library-book-button-blue {
+  background-color: #dae8fc;
+  border-color: #9fb8db;
+}
+
+.library-book-button-green {
+  background-color: #d5e8d4;
+  border-color: #a9cc99;
+}
