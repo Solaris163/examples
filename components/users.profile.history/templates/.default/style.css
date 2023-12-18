@@ -1,0 +1,11 @@
+.main-ui-filter-search {
+  margin: 0;
+}
+thead.main-grid-header th {
+  background-color: #EEF2F4
+}
+.main-grid-container table {
+  border: 1px #eef2f4 solid;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
